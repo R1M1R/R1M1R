@@ -15,16 +15,20 @@
 ---
 
 ### 🚀 What I Do
-**🌐 Web Development:** End-to-end development of SPAs, custom CRM systems, and user-centric B2C apps.<br>
-**🤖 Bot Architecture:** Complex Telegram bots with AI-driven natural language processing.<br>
-**⚡ Rapid MVP Building:** Transforming ideas into scalable Minimal Viable Products from 0 to 1 at high speed.
+</div>
+
+- 🌐 **Web Development:** End-to-end development of SPAs, custom CRM systems, and user-centric B2C apps.
+- 🤖 **Bot Architecture:** Complex Telegram bots with AI-driven natural language processing.
+- ⚡ **Rapid MVP Building:** Transforming ideas into scalable Minimal Viable Products from 0 to 1 at high speed.
+
+<div align="center">
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R1M1R&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Emir's GitHub stats" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=R1M1R&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" alt="Emir's GitHub stats" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1M1R&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="190"/>
 </p>
 
