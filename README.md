@@ -1,17 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&secondaryColor=00F0FF&height=180&section=header&text=EMIR%20USEINOV&fontSize=45&fontColor=00F0FF&animation=twinkling&fontAlignY=40&desc=CORE%20ARCHITECT%20//%20SYSTEM%20INTEGRATOR&descAlignY=65&descAlign=62" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~01d4852c2d4dd51874"><img src="https://img.shields.io/badge/ORBITAL__STATUS-AVAILABLE__FOR__CONTRACTS-0D1117?style=for-the-badge&logo=upwork&logoColor=00F0FF&borderColor=00F0FF" /></a>
-  <a href="https://github.com/R1M1R"><img src="https://img.shields.io/badge/OPERATIONAL__FOCUS-RAPID__MVP__DEVELOPMENT-0D1117?style=for-the-badge&logo=github&logoColor=6FDA44&borderColor=6FDA44" /></a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&secondaryColor=00F0FF&height=180&section=header&text=EMIR%20USEINOV&fontSize=45&fontColor=00F0FF&animation=twinkling&fontAlignY=40&desc=CORE%20ARCHITECT%20//%20SYSTEM%20INTEGRATOR&descAlignY=65&descAlign=62)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
-</p>
+</div>
 
-### 🌐 SYSTEM OVERVIEW (ЦЕНТРАЛЬНАЯ ПАРАДИГМА)
+<div align="center">
+
+[![Upwork](https://img.shields.io/badge/ORBITAL_STATUS-AVAILABLE_FOR_CONTRACTS-0D1117?style=for-the-badge&logo=upwork&logoColor=00F0FF)](https://www.upwork.com/freelancers/~01d4852c2d4dd51874)
+[![GitHub](https://img.shields.io/badge/OPERATIONAL_FOCUS-RAPID_MVP_DEVELOPMENT-0D1117?style=for-the-badge&logo=github&logoColor=6FDA44)](https://github.com/R1M1R)
+
+</div>
+
+![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### 🌐 SYSTEM OVERVIEW
 
 ```shell
 $ system_status --recon
@@ -21,82 +23,80 @@ $ system_status --recon
 [STATUS: READY FOR DEPLOYMENT]
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
-</p>
+![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### ⚡ TECH STACK MATRIX (ЯДРО ТЕХНОЛОГИЙ)
+### ⚡ TECH STACK MATRIX
 
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,postgres,sqlite,git,github,vscode,vercel&theme=dark&perline=12" /></a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Prompt__Engineering-0D1117?style=flat-square&logo=openai&logoColor=00F0FF&borderColor=00F0FF" />
-  <img src="https://img.shields.io/badge/Telegram__Bot__API-0D1117?style=flat-square&logo=telegram&logoColor=2CA5E0&borderColor=2CA5E0" />
-  <img src="https://img.shields.io/badge/Cursor__Pro-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00E5FF&borderColor=00E5FF" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
-</p>
+[![Skills](https://skillicons.dev/icons?i=py,js,ts,react,html,css,postgres,sqlite,git,github,vscode,vercel&theme=dark&perline=12)](https://skillicons.dev)
 
-### 🚀 OPERATIONAL SPHERES (НАПРАВЛЕНИЯ РАБОТЫ)
+</div>
 
-- ⚡ **Rapid 0-to-1 MVP Architect:** Проектирование, сборка и развертывание полнофункциональных цифровых продуктов в одиночку в сжатые сроки.
-- 🤖 **Cognitive Automation:** Интеграция больших языковых моделей (LLM) непосредственно в бизнес-логику приложений и Telegram-инфраструктуру.
-- 🎨 **High-Fidelity UI/UX:** Создание интерфейсов со строгой геометрией, поддержкой Dark Mode и эстетикой Sci-Fi/Tech.
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
-</p>
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logo=openai&logoColor=00F0FF)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-0D1117?style=flat-square&logo=telegram&logoColor=2CA5E0)
+![Cursor Pro](https://img.shields.io/badge/Cursor_Pro-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00E5FF)
 
-### 📂 FEATURED DEPLOYMENTS (АКТУАЛЬНЫЕ КЕЙСЫ)
+</div>
 
-<br>
+![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<a href="https://duty-free-erp-system.vercel.app/?tab=pos"><img src="https://img.shields.io/badge/DEPLOYMENT__01-DUTY__FREE__ERP__%2F__POS-0D1117?style=for-the-badge&borderColor=00F0FF&logo=react&logoColor=00F0FF" /></a><br>
-> Специализированная торговая SPA-платформа. Валидирует паспортные данные и блокирует продажи при превышении таможенных лимитов на алкоголь и табак.<br>
-> `React` • `TypeScript` • `Python` • `State Management`
+### 🚀 OPERATIONAL SPHERES
 
-<br>
+- ⚡ **Rapid 0-to-1 MVP Architect** — Проектирование, сборка и развертывание полнофункциональных цифровых продуктов в одиночку в сжатые сроки.
+- 🤖 **Cognitive Automation** — Интеграция LLM непосредственно в бизнес-логику приложений и Telegram-инфраструктуру.
+- 🎨 **High-Fidelity UI/UX** — Sci-Fi эстетика, строгая геометрия, поддержка Dark Mode.
 
-<a href="https://github.com/R1M1R/Caring-Diary"><img src="https://img.shields.io/badge/DEPLOYMENT__02-MATERNAL__CARE__HEALTH__APP-0D1117?style=for-the-badge&borderColor=FF69B4&logo=react&logoColor=FF69B4" /></a><br>
-> Эмпатичное B2C веб-приложение для ведения беременности с трекерами гидратации и дыхательными практиками. Оптимизировано под Mobile-First.<br>
-> `React` • `JavaScript` • `PWA Architecture` • `Calming UI`
+![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<br>
+### 📂 FEATURED DEPLOYMENTS
 
-<a href="https://github.com/R1M1R/auca-summer-app"><img src="https://img.shields.io/badge/DEPLOYMENT__03-SYNC__TIME__MANAGER-0D1117?style=for-the-badge&borderColor=F7DF1E&logo=javascript&logoColor=F7DF1E" /></a><br>
-> Архитектура планирования для синхронизации кросс-культурных графиков дня и динамического обновления событий.<br>
-> `Full-Stack Application` • `State Synchronization` • `Role Access`
+**`01`** &nbsp; [![Duty Free ERP](https://img.shields.io/badge/DUTY_FREE_ERP_/_POS-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF)](https://duty-free-erp-system.vercel.app/?tab=pos)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
-</p>
+> Специализированная торговая SPA-платформа. Валидирует паспортные данные и блокирует продажи при превышении таможенных лимитов на алкоголь и табак.  
+> `React` · `TypeScript` · `Python` · `State Management`
 
-### ⚙️ BACKGROUND PROCESSES (ОФФЛАЙН АКТИВНОСТЬ)
+**`02`** &nbsp; [![Maternal Care](https://img.shields.io/badge/MATERNAL_CARE_HEALTH_APP-0D1117?style=for-the-badge&logo=react&logoColor=FF69B4)](https://github.com/R1M1R/Caring-Diary)
 
-- **🏋️ Hardware Maintenance:** Регулярная поддержка физической оболочки (Full Body тренинг).
-- **🎮 Tactical Simulations:** Погружение в комплексные симуляции — Cyberpunk 2077, X4: Foundations, Conan Exiles.
-- **📐 Visual Protocols:** Увлечение Pinterest-эстетикой и проектированием эргономичных интерьеров.
+> Эмпатичное B2C веб-приложение для ведения беременности с трекерами гидратации и дыхательными практиками. Оптимизировано под Mobile-First.  
+> `React` · `JavaScript` · `PWA Architecture` · `Calming UI`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
-</p>
+**`03`** &nbsp; [![Sync Time Manager](https://img.shields.io/badge/SYNC_TIME_MANAGER-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/R1M1R/auca-summer-app)
 
-### 📊 AUTOMATED RECON METRICS (АНАЛИТИКА АКТИВНОСТИ)
+> Архитектура планирования для синхронизации кросс-культурных графиков дня и динамического обновления событий.  
+> `Full-Stack` · `State Synchronization` · `Role Access`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R1M1R&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" alt="Emir's GitHub stats" height="185"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1M1R&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="185"/>
-</p>
+![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
-</p>
+### ⚙️ BACKGROUND PROCESSES
 
-### 🛰️ SECURE UPLINK CHANNELS (СВЯЗЬ)
+- 🏋️ **Hardware Maintenance** — Регулярная поддержка физической оболочки (Full Body тренинг).
+- 🎮 **Tactical Simulations** — Cyberpunk 2077, X4: Foundations, Conan Exiles.
+- 📐 **Visual Protocols** — Pinterest-эстетика и проектирование эргономичных интерьеров.
 
-<p align="center">
-  <a href="https://t.me/EmBet315"><img src="https://img.shields.io/badge/TELEGRAM__UPLINK-0D1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0&borderColor=2CA5E0" /></a>
-  <a href="https://www.upwork.com/freelancers/~01d4852c2d4dd51874"><img src="https://img.shields.io/badge/UPWORK__TERMINAL-0D1117?style=for-the-badge&logo=Upwork&logoColor=6FDA44&borderColor=6FDA44" /></a>
-</p>
+![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### 📊 AUTOMATED RECON METRICS
+
+<div align="center">
+
+![Emir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=R1M1R&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_rank=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R1M1R&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+</div>
+
+![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### 🛰️ SECURE UPLINK CHANNELS
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM_UPLINK-0D1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/EmBet315)
+[![Upwork](https://img.shields.io/badge/UPWORK_TERMINAL-0D1117?style=for-the-badge&logo=upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~01d4852c2d4dd51874)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&secondaryColor=00F0FF&height=100&section=footer)
