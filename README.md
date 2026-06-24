@@ -288,12 +288,12 @@ Empathetic B2C pregnancy companion — hydration trackers, breathing practices, 
 
 Cross-cultural schedule synchronization — dynamic event updates, role-based access control (student / family), real-time state sync via Firebase Firestore. Offline demo mode included.
 
-![STATUS](https://img.shields.io/badge/STATUS-REPO-4A90A4?style=flat-square&labelColor=0D1117)&nbsp;
+![STATUS](https://img.shields.io/badge/STATUS-LIVE-00FF9F?style=flat-square&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=4A90A4&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=4A90A4&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=4A90A4&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=4A90A4&labelColor=0D1117)&nbsp;
-**[→ View Repo](https://github.com/R1M1R/auca-summer-app)**
+**[→ Live Demo](https://auca-summer-app.vercel.app/)**
 
 </td>
 </tr>
