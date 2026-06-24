@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=900&color=00F0FF&background=00000000&center=true&vCenter=true&width=560&lines=▸+AI-Augmented+Full-Stack+Engineer;▸+LLM+Orchestration+%2F%2F+Cognitive+Automation;▸+Rapid+0→1+MVP+Delivery+Specialist;▸+Sci-Fi+%26+Dark-Mode+Interface+Architect;▸+Python+·+TypeScript+·+React+·+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=900&color=00F0FF&background=00000000&center=true&vCenter=true&width=620&lines=▸+I+build+systems+that+think+—+not+just+run.;▸+AI-Augmented+Full-Stack+Engineer;▸+LLM+Orchestration+%2F%2F+Cognitive+Automation;▸+Rapid+0→1+MVP+Delivery+Specialist;▸+Sci-Fi+%26+Dark-Mode+Interface+Architect;▸+Python+·+TypeScript+·+React+·+PostgreSQL)](https://git.io/typing-svg)
 
 </div>
 
@@ -143,7 +143,7 @@
 
 Specialized trade SPA — validates passport data and enforces real-time customs alcohol & tobacco limits. Production-deployed with enterprise-grade validation logic.
 
-[![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F0FF)](https://react.dev)&nbsp;[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00F0FF)](https://www.typescriptlang.org)&nbsp;[![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF)](https://python.org)&nbsp;[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F0FF)](https://postgresql.org)&nbsp;&nbsp;&nbsp;**[→ Live Demo](https://duty-free-erp-system.vercel.app/?tab=pos)**
+[![React](https://img.shields.io/github/stars/R1M1R/duty-free-erp-system?style=flat-square&logo=react&label=React&color=0D1117&logoColor=00F0FF&labelColor=0D1117)](https://duty-free-erp-system.vercel.app/?tab=pos)&nbsp;[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00F0FF)](https://www.typescriptlang.org)&nbsp;[![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF)](https://python.org)&nbsp;[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F0FF)](https://postgresql.org)&nbsp;&nbsp;&nbsp;**[→ Live Demo](https://duty-free-erp-system.vercel.app/?tab=pos)**
 
 </td>
 </tr>
@@ -157,7 +157,7 @@ Specialized trade SPA — validates passport data and enforces real-time customs
 
 Empathetic B2C pregnancy companion — hydration trackers, breathing practices, milestone journaling. Mobile-first PWA with offline capabilities and warm, accessible UX.
 
-[![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F0FF)](https://react.dev)&nbsp;[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00F0FF)](https://developer.mozilla.org/docs/Web/JavaScript)&nbsp;[![PWA](https://img.shields.io/badge/PWA-0D1117?style=flat-square&logo=pwa&logoColor=00F0FF)](https://web.dev/progressive-web-apps)&nbsp;&nbsp;&nbsp;**[→ View Repo](https://github.com/R1M1R/Caring-Diary)**
+[![GitHub stars](https://img.shields.io/github/stars/R1M1R/Caring-Diary?style=flat-square&logo=github&label=Stars&color=0D1117&logoColor=00F0FF&labelColor=0D1117)](https://github.com/R1M1R/Caring-Diary)&nbsp;[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00F0FF)](https://developer.mozilla.org/docs/Web/JavaScript)&nbsp;[![PWA](https://img.shields.io/badge/PWA-0D1117?style=flat-square&logo=pwa&logoColor=00F0FF)](https://web.dev/progressive-web-apps)&nbsp;&nbsp;&nbsp;**[→ View Repo](https://github.com/R1M1R/Caring-Diary)**
 
 </td>
 </tr>
@@ -171,7 +171,7 @@ Empathetic B2C pregnancy companion — hydration trackers, breathing practices, 
 
 Cross-cultural schedule synchronization — dynamic event updates, role-based access control, real-time state sync across user tiers. Full-stack deployment with RBAC.
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=4A90A4)](https://github.com/R1M1R/auca-summer-app)&nbsp;[![RBAC](https://img.shields.io/badge/Role_Access_Control-0D1117?style=flat-square&logoColor=4A90A4)](https://github.com/R1M1R/auca-summer-app)&nbsp;[![State Sync](https://img.shields.io/badge/State_Sync-0D1117?style=flat-square&logoColor=4A90A4)](https://github.com/R1M1R/auca-summer-app)&nbsp;&nbsp;&nbsp;**[→ View Repo](https://github.com/R1M1R/auca-summer-app)**
+[![GitHub stars](https://img.shields.io/github/stars/R1M1R/auca-summer-app?style=flat-square&logo=github&label=Stars&color=0D1117&logoColor=4A90A4&labelColor=0D1117)](https://github.com/R1M1R/auca-summer-app)&nbsp;[![RBAC](https://img.shields.io/badge/Role_Access_Control-0D1117?style=flat-square&logoColor=4A90A4)](https://github.com/R1M1R/auca-summer-app)&nbsp;[![State Sync](https://img.shields.io/badge/State_Sync-0D1117?style=flat-square&logoColor=4A90A4)](https://github.com/R1M1R/auca-summer-app)&nbsp;&nbsp;&nbsp;**[→ View Repo](https://github.com/R1M1R/auca-summer-app)**
 
 </td>
 </tr>
@@ -203,7 +203,7 @@ Cross-cultural schedule synchronization — dynamic event updates, role-based ac
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=R1M1R&theme=tokyonight&hide_border=true&background=00000000&stroke=00F0FF15&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=4A5568&dates=4A5568&currStreakNum=00F0FF&sideNums=4A90A4)
+![Streak](https://streak-stats.demolab.com?user=R1M1R&theme=tokyonight&hide_border=true&background=00000000&stroke=00F0FF15&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=4A5568&dates=4A5568&currStreakNum=00F0FF&sideNums=4A90A4&hide=currentstreak)
 
 </div>
 
@@ -212,6 +212,19 @@ Cross-cultural schedule synchronization — dynamic event updates, role-based ac
 <div align="center">
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=R1M1R&theme=react-dark&hide_border=true&bg_color=00000000&color=00F0FF&line=00F0FF&point=00F0FF&area=true&area_color=00F0FF)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- SNAKE ANIMATION — requires GitHub Action (see setup instructions below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R1M1R/R1M1R/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R1M1R/R1M1R/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/R1M1R/R1M1R/output/github-snake.svg" />
+</picture>
 
 </div>
 
