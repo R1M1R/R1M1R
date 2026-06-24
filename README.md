@@ -1,6 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     EMIR USEINOV — GitHub Profile README
+     EMIR USEINOV — GitHub Profile README v3
      Style: Sci-Fi / Cyberpunk · Dark · Neon Cyan & Green
+     Last audit: all URLs verified, broken icons removed
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -70,7 +71,7 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="12">
+<table border="0" cellspacing="0" cellpadding="16">
 <tr>
 <td align="center" valign="top">
 
@@ -78,9 +79,9 @@
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" title="Python"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" title="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript"/>
 
 </td>
 <td align="center" valign="top">
@@ -89,9 +90,9 @@
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" title="React"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="42" alt="React" title="React"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="42" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="42" alt="CSS3" title="CSS3"/>
 
 </td>
 </tr>
@@ -102,8 +103,8 @@
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="SQLite" title="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="42" alt="SQLite" title="SQLite"/>
 
 </td>
 <td align="center" valign="top">
@@ -112,9 +113,9 @@
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/ffffff" height="42" alt="Vercel" title="Vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" title="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="42" alt="Vercel" title="Vercel"/>
 
 </td>
 </tr>
@@ -128,9 +129,9 @@
 
 [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logo=openai&logoColor=00F0FF&labelColor=0D1117)](https://openai.com)&nbsp;
 [![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-0D1117?style=flat-square&logo=telegram&logoColor=00F0FF&labelColor=0D1117)](https://core.telegram.org/bots)&nbsp;
-[![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-0D1117?style=flat-square&logo=anthropic&logoColor=00F0FF&labelColor=0D1117)](https://anthropic.com)&nbsp;
-[![Cursor Pro](https://img.shields.io/badge/Cursor_Pro-0D1117?style=flat-square&logo=cursor&logoColor=00F0FF&labelColor=0D1117)](https://cursor.sh)&nbsp;
-[![PWA](https://img.shields.io/badge/Progressive_Web_Apps-0D1117?style=flat-square&logo=pwa&logoColor=00F0FF&labelColor=0D1117)](https://web.dev/progressive-web-apps)
+[![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-0D1117?style=flat-square&logo=openai&logoColor=00F0FF&labelColor=0D1117)](https://anthropic.com)&nbsp;
+[![Cursor AI](https://img.shields.io/badge/Cursor_AI-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00F0FF&labelColor=0D1117)](https://cursor.sh)&nbsp;
+[![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=00F0FF&labelColor=0D1117)](https://firebase.google.com)
 
 </div>
 
@@ -189,8 +190,8 @@
 │  Dark-first interfaces.     │
 │  Sci-Fi. Precision grid.    │
 │                             │
-│  React · CSS                │
-│  Motion · Mobile PWA        │
+│  React · CSS · Motion       │
+│  Mobile PWA · Firebase      │
 └─────────────────────────────┘
 ```
 
@@ -216,7 +217,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="92%">
 
-<!-- PROJECT 01 -->
+<!-- ── PROJECT 01 ─────────────────────────────────────────────────── -->
 <tr>
 <td>
 <table border="0" cellspacing="0" cellpadding="14" width="100%">
@@ -228,13 +229,13 @@
 
 **[⚙️ Duty-Free ERP / POS System](https://duty-free-erp-system.vercel.app/?tab=pos)**
 
-Specialized trade SPA — validates passport data and enforces real-time customs alcohol & tobacco limits. Production-deployed with enterprise-grade validation logic.
+Specialized trade SPA — validates passport data and enforces real-time customs alcohol & tobacco limits. Enterprise-grade validation logic, production-deployed.
 
-<img src="https://img.shields.io/badge/STATUS-LIVE-00FF9F?style=flat-square&labelColor=0D1117&color=00FF9F" />&nbsp;
-[![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F0FF)](https://react.dev)&nbsp;
-[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00F0FF)](https://www.typescriptlang.org)&nbsp;
-[![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF)](https://python.org)&nbsp;
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F0FF)](https://postgresql.org)&nbsp;
+![STATUS](https://img.shields.io/badge/STATUS-LIVE-00FF9F?style=flat-square&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F0FF&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00F0FF&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F0FF&labelColor=0D1117)&nbsp;
 **[→ Live Demo](https://duty-free-erp-system.vercel.app/?tab=pos)**
 
 </td>
@@ -243,9 +244,9 @@ Specialized trade SPA — validates passport data and enforces real-time customs
 </td>
 </tr>
 
-<tr><td><hr style="border-color:#1a2a3a"></td></tr>
+<tr><td><hr></td></tr>
 
-<!-- PROJECT 02 -->
+<!-- ── PROJECT 02 ─────────────────────────────────────────────────── -->
 <tr>
 <td>
 <table border="0" cellspacing="0" cellpadding="14" width="100%">
@@ -255,16 +256,15 @@ Specialized trade SPA — validates passport data and enforces real-time customs
 </td>
 <td valign="top">
 
-**[💊 Maternal Care Health App](https://github.com/R1M1R/Caring-Diary)**
+**[💊 Maternal Care Health App](https://r1m1r.github.io/Caring-Diary/)**
 
-Empathetic B2C pregnancy companion — hydration trackers, breathing practices, milestone journaling. Mobile-first PWA with offline capabilities and warm, accessible UX.
+Empathetic B2C pregnancy companion — hydration trackers, breathing practices, milestone journaling. 100% client-side PWA: no backend, offline-capable, installable on iOS & Android.
 
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00FF9F?style=flat-square&labelColor=0D1117&color=00FF9F" />&nbsp;
-[![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F0FF)](https://react.dev)&nbsp;
-[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00F0FF)](https://developer.mozilla.org/docs/Web/JavaScript)&nbsp;
-[![PWA](https://img.shields.io/badge/PWA-0D1117?style=flat-square&logo=pwa&logoColor=00F0FF)](https://web.dev/progressive-web-apps)&nbsp;
-[![Stars](https://img.shields.io/github/stars/R1M1R/Caring-Diary?style=flat-square&logo=github&label=Stars&color=0D1117&logoColor=00F0FF&labelColor=0D1117)](https://github.com/R1M1R/Caring-Diary)&nbsp;
-**[→ View Repo](https://github.com/R1M1R/Caring-Diary)**
+![STATUS](https://img.shields.io/badge/STATUS-LIVE-00FF9F?style=flat-square&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F0FF&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00F0FF&labelColor=0D1117)&nbsp;
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0D1117?style=flat-square&logo=github&logoColor=00F0FF&labelColor=0D1117)&nbsp;
+**[→ Live Demo](https://r1m1r.github.io/Caring-Diary/)** &nbsp;·&nbsp; **[→ Repo](https://github.com/R1M1R/Caring-Diary)**
 
 </td>
 </tr>
@@ -272,9 +272,9 @@ Empathetic B2C pregnancy companion — hydration trackers, breathing practices, 
 </td>
 </tr>
 
-<tr><td><hr style="border-color:#1a2a3a"></td></tr>
+<tr><td><hr></td></tr>
 
-<!-- PROJECT 03 -->
+<!-- ── PROJECT 03 ─────────────────────────────────────────────────── -->
 <tr>
 <td>
 <table border="0" cellspacing="0" cellpadding="14" width="100%">
@@ -284,14 +284,15 @@ Empathetic B2C pregnancy companion — hydration trackers, breathing practices, 
 </td>
 <td valign="top">
 
-**[🕐 Sync Time Manager](https://github.com/R1M1R/auca-summer-app)**
+**[🕐 Time Manager](https://github.com/R1M1R/auca-summer-app)**
 
-Cross-cultural schedule synchronization — dynamic event updates, role-based access control, real-time state sync across user tiers. Full-stack deployment with RBAC.
+Cross-cultural schedule synchronization — dynamic event updates, role-based access control (student / family), real-time state sync via Firebase Firestore. Offline demo mode included.
 
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-4A90A4?style=flat-square&labelColor=0D1117&color=4A90A4" />&nbsp;
-[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=4A90A4)](https://www.typescriptlang.org)&nbsp;
-[![RBAC](https://img.shields.io/badge/Role_Access_Control-0D1117?style=flat-square&logoColor=4A90A4&color=0D1117&labelColor=0D1117)](https://github.com/R1M1R/auca-summer-app)&nbsp;
-[![Stars](https://img.shields.io/github/stars/R1M1R/auca-summer-app?style=flat-square&logo=github&label=Stars&color=0D1117&logoColor=4A90A4&labelColor=0D1117)](https://github.com/R1M1R/auca-summer-app)&nbsp;
+![STATUS](https://img.shields.io/badge/STATUS-REPO-4A90A4?style=flat-square&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=4A90A4&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=4A90A4&labelColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=4A90A4&labelColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=4A90A4&labelColor=0D1117)&nbsp;
 **[→ View Repo](https://github.com/R1M1R/auca-summer-app)**
 
 </td>
@@ -312,14 +313,6 @@ Cross-cultural schedule synchronization — dynamic event updates, role-based ac
 <!-- ══════════════════════════  METRICS  ══════════════════════════ -->
 
 <h3 align="center">◈ &nbsp; M E T R I C S &nbsp; ◈</h3>
-
-<br>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=R1M1R&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <br>
 
@@ -360,15 +353,19 @@ Cross-cultural schedule synchronization — dynamic event updates, role-based ac
 
 <br>
 
-<div align="center">
+<!-- Snake: активируется после запуска GitHub Action snake.yml -->
+<!-- Инструкция: Settings → Actions → Enable, затем Actions → Generate Snake → Run workflow -->
+<!-- После появления ветки output/ — раскомментировать блок ниже: -->
 
+<!--
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R1M1R/R1M1R/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R1M1R/R1M1R/output/github-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/R1M1R/R1M1R/output/github-snake-dark.svg" />
 </picture>
-
 </div>
+-->
 
 <br>
 
